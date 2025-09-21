@@ -26,4 +26,8 @@ Full-stack developer | AI enthusiast | Founder of **Vuneum** | Building AI-drive
 
 ### 📊 GitHub Stats
 
-![Walid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ladebw&show_icons=true&theme=radical)
+![Walid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ladebw&show_icons=true&theme=radical&count_private=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ladebw&layout=compact&theme=radical)  
+
+![Walid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ladebw&theme=radical)  
