@@ -8,11 +8,48 @@
 
 <br><br>
 
-Building systems at the intersection of **AI agents, data infrastructure, and verifiable execution**.  
-Focused on scalable AI tooling, developer platforms, and intelligent systems.
+Building systems at the intersection of **AI infrastructure, agent ecosystems, and verifiable execution**.
 
-<br><br>
-
-Founder of **Vuneum** — an ecosystem focused on AI infrastructure, tools, and research.
+Founder of **Vuneum** — focused on developing next-generation AI infrastructure, protocols, and developer tooling.
 
 </div>
+
+---
+
+## Areas of Expertise
+
+- **AI Agent Infrastructure**
+  - Multi-agent systems
+  - agent orchestration and execution pipelines
+  - autonomous workflow architectures
+
+- **AI Data Pipelines**
+  - large-scale dataset collection and processing
+  - data cleaning, annotation, and transformation
+  - retrieval-optimized knowledge systems
+
+- **Model Optimization**
+  - cost-efficient AI architectures
+  - inference optimization and token efficiency
+  - scalable model deployment strategies
+
+- **AI Systems Engineering**
+  - distributed AI systems
+  - backend infrastructure for AI platforms
+  - API and developer-focused architectures
+
+- **AI Research & Protocol Design**
+  - verifiable AI execution systems
+  - proof-of-execution mechanisms
+  - infrastructure for trustworthy AI agents
+
+---
+
+## Current Focus
+
+Building **Vuneum**, an ecosystem dedicated to:
+
+- AI infrastructure
+- agent execution protocols
+- scalable data pipelines
+- developer tooling for intelligent systems
