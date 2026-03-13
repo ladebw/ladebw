@@ -1,57 +1,67 @@
 <div align="center">
 
-# 👋 Hi, I'm Walid
+# Walid Ladeb
+
+### AI Infrastructure Engineer • Full-Stack Developer • Founder of Vuneum
+
+Building systems at the intersection of **AI agents, data infrastructure, and verifiable execution**.  
+Focused on scalable AI tooling, developer platforms, and intelligent systems.
 
 <br>
 
-### Full-stack developer | AI enthusiast | Founder of **Vuneum**  
-Passionate about building AI-driven apps and tools
+</div>
 
-<br><br>
+---
 
-### 🔗 Connect with me
+## About
+
+Full-stack developer focused on building infrastructure for the next generation of AI systems.
+
+Areas of focus:
+
+- AI agent infrastructure
+- Data pipelines and model optimization
+- Cost-efficient AI architectures
+- Developer tools and AI platforms
+
+Currently building **Vuneum**, an ecosystem focused on AI infrastructure, tools, and research.
+
+---
+
+## Connect
+
+<div align="center">
 
 <a href="https://twitter.com/ladebw" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-@ladebw-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" alt="Twitter" />
-</a>
-&nbsp;&nbsp;
-<a href="https://facebook.com/ladebw" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-@ladebw-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="Facebook" />
-</a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/ladebw" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-@ladebw-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Twitter-@ladebw-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35"/>
 </a>
 
-<br><br>
+</div>
 
-### 🛠️ Tech & Tools
+---
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+## Tech Stack
 
-<br><br>
+<div align="center">
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ladebw&theme=radical" alt="Walid's streak" />  
-<br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50"/>
+<img width="10"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="50"/>
+<img width="10"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/>
 
 </div>
