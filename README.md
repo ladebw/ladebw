@@ -13,7 +13,6 @@ Building systems at the intersection of **AI infrastructure, agent ecosystems, a
 
 </div>
 
-## Contact
 
 For collaboration, research, or partnerships:
 
