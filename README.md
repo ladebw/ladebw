@@ -8,7 +8,7 @@
 
 <br><br>
 
-Building systems at the intersection of **AI infrastructure, agent ecosystems, and verifiable execution**.
+Building systems at the intersection of **AI/WEB3 infrastructure, agent ecosystems, and verifiable execution**.
 
 
 </div>
